@@ -1,0 +1,3 @@
+[submodule "Varjo-SDK"]
+	path = Varjo-SDK
+	url = https://github.com/mbucchia/Varjo-SDK.git
